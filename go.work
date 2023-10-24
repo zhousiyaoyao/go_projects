@@ -1,1 +1,7 @@
 go 1.21.1
+
+use (
+    ./gee-web/base1
+    ./gee-web/base2
+    ./gee-web/base3
+)
