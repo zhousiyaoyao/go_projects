@@ -4,4 +4,5 @@ use (
   ./gee-web
   ./gee-orm
   ./gee-rpc
+  ./gee-cache
 )
